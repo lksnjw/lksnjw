@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="200px" style="width: 1000px;"/>
 </p>
 
-<h1 align="center">Hi, I'm Ishara Udayanga  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">Hi, I'm Lakshan Sanjeewa  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lksnjw&label=Profile%20views&color=0e75b6&style=flat" alt="lksnjw" /> </p>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Next Js
 - 🧑‍🎓 I’m an Undergraduate at SLIIT
-- 📫 How to reach me ish-1000@gmail.com
+- 📫 How to reach me lk.snjw@gmail.com
 -  ⚡"Every great project starts with a cup of coffee ☕
   
  </td>
@@ -47,7 +47,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/lksnjw/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="50" width="50" /></a>
+<a href="www.linkedin.com/in/lakshan-sanjeewa/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="50" width="50" /></a>
 <a href="https://fb.com/lksnjw" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /> </a>
 <a href="https://instagram.com/lksnjw" target="blank"> <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /> </a>
 </p>
