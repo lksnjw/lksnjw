@@ -1,4 +1,3 @@
----
 <p align="center">
     <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="200px" style="width: 1000px;"/>
 </p>
